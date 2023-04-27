@@ -1,2 +1,6 @@
-# GANs
-Implementing different types of GAN using PyTorch framework
+<h1 align='center'>Implementing GANs</h1>
+
+**Hi, I'm Fraidoon! 👋, I am gonna implement different types of GAN using PyTorch framework on MNIST Dataset.**
+
+
+# 1- Basic GAN Implementation 
