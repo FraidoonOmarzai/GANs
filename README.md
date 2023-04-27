@@ -4,3 +4,5 @@
 
 
 # 1- Basic GAN Implementation 
+
+# 2- Deep Convolutional GAN Implementation 
