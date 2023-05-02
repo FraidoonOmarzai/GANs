@@ -1,10 +1,12 @@
 <h1 align='center'>Implementing GANs</h1>
 
-**Hi, I'm Fraidoon! 👋, I am gonna implement different types of GAN using PyTorch framework on MNIST Dataset.**
+**Hi, 👋, I am gonna implement different types of GAN using PyTorch framework using MNIST and CelebA Dataset.**
 
 
-# 1- Basic GAN Implementation 
+# 0- Basic GAN Implementation 
 
-# 2- Deep Convolutional GAN Implementation 
+# 1- Deep Convolutional GAN Implementation 
 
-# 3- Implementation of Wasserstein GAN with Gradient Penalty
+# 2- Implementation of Wasserstein GAN with Gradient Penalty
+
+# 3- Implementation of Condational GAN
